@@ -4,10 +4,6 @@ I am an average developer currently learning about development pertaining to art
 
 ✨ **Winner Winner Chicken Dinner** ✨
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicett)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicett/nicett/cc2710a6b5547346ed876b57a85e80ee53f773d3/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicett/nicett/cc2710a6b5547346ed876b57a85e80ee53f773d3/github-contribution-grid-snake.svg">
